@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="d65fb32e-d8e3-4479-8872-06742fba5f3c" name="Server" projectName="so_project">
+      <configuration id="a080ade1-b618-4532-9e0b-f81b83ee569e" name="Server">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_Build server" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Build server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" value="gcc -o server.o main.c -pthread -include my_protocol.h my_protocol.c jsmn.h jsmn.c" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/CLionProjects/so_project" />
+    </exec>
+  </tool>
+</toolSet>
